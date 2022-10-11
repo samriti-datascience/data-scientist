@@ -8,8 +8,8 @@ links:
     url: "https://twitter.com"
   - label: Github
     url: "https://github.com/samriti-datascience"
-  - label: Blog
-    url: ""
+  - label: Resume
+    url: "https://drive.google.com/file/d/1pWHv_hoyLKa308VXBl5iNuF2SLhU4Y0P/view?usp=sharing"
   - label: Contact
     url: "mailto:attreysamriti@gmail.com"
 output:
