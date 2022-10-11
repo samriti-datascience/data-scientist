@@ -22,8 +22,8 @@ Data Science professional passionate about implementing
 data driven solutions with more than five years of experience in
 payments, consulting and e-commerce industry.  
 
-He has authored a number of textbooks in the fields of data science and people analytics, including:
+She has worked across domains like e-commerce, consulting and payments:
 
-- [*Handbook of Regression Modeling in People Analytics*](https://www.routledge.com/Handbook-of-Regression-Modeling-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032041742)
-- [*Handbook of Graphs and Networks in People Analytics*](https://www.routledge.com/Handbook-of-Graphs-and-Networks-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032204970)
-- [*Using Data in Organizations* (Book Chapter with Alexis A. Fink)](https://www.routledge.com/Data-Methods-and-Theory-in-the-Organizational-Sciences-A-New-Synthesis/Murphy/p/book/9780367857707)
+- *PayPal *   - Data Scientist July'21 till Present
+- *Amazon *   - Business Analyst Apr'19-Apr'21
+- *Deloitte * - Business Technology Analyst April'17-April'19
