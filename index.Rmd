@@ -9,7 +9,7 @@ links:
   - label: Github
     url: "https://github.com/samriti-datascience"
   - label: Resume
-    url: "https://drive.google.com/file/d/1pWHv_hoyLKa308VXBl5iNuF2SLhU4Y0P/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1wjnc39LglFTlNQ6jVzZ6fav8eInPmuej/view?usp=sharing"
   - label: Contact
     url: "mailto:attreysamriti@gmail.com"
 output:
@@ -19,7 +19,7 @@ output:
 <br>
 
 Data Science professional passionate about implementing
-data driven solutions with more than five years of experience in
+data driven solutions with more than six years of experience in
 payments, consulting and e-commerce industry.  
 
 She has worked across domains like e-commerce, consulting and payments:
